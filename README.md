@@ -2,7 +2,7 @@
 
 Senior Engineer based in Thu Duc City, HCM, Vietnam.
 
-- 🔭 I’m currently working as a Senior Engineer at **Vigo Retail**.
+- 🔭 I’m currently working as a Senior Engineer at **Lotte Innovate**.
 - 🌱 I’m interested in working as a Full-Stack Developer for a leading software company.
 - 💬 Ask me about **Magento 2, PHP, Golang, Laravel, Microservices**.
 - 📫 How to reach me: **vesviet@gmail.com**
@@ -19,7 +19,17 @@ Senior Engineer based in Thu Duc City, HCM, Vietnam.
 
 ## 💼 Work Experience
 
-### Senior Engineer @ Vigo Retail (Sep 2021 - Present)
+### Senior Engineer @ Lotte Innovate (Dec 2025 - Present)
+- **Technicality**:
+    - Frameworks: Magento 2, PHP, Laravel, RESTful API
+    - Infrastructure: AWS (EC2, RDS, S3, EKS), Kubernetes, Docker
+    - DB & Cache: MySQL, Redis
+    - CI/CD: Git, GitLab CI/CD
+- **Key Highlights**:
+    - Optimized Magento 2 performance and data processing for high-traffic environments.
+    - Improved system stability and reduced latency through database and code optimizations.
+
+### Senior Engineer @ Vigo Retail (Sep 2021 - Oct 2025)
 - **Projects**: Vigo Retail (B2B vs B2C)
 - **Technicality**:
     - Frameworks: Magento 2, PHP, Golang, Laravel, RESTful API, Microservices
